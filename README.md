@@ -1,4 +1,5 @@
 # Телеграм-бот для сбора анкет
+<img width="546" height="906" alt="Выделение_930" src="https://github.com/user-attachments/assets/4e33632e-6015-4dec-be3a-66954ff140c5" />
 
 Телеграм-бот на PyTelegramBotAPI для сбора анкет пользователей с сохранением в удаленную базу данных PostgreSQL.
 
